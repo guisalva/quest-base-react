@@ -21,12 +21,15 @@ Esse projeto se refere a quest de React base, do curso de desenvolvimento Web Fr
 ## Uso
 
 - **Rode a aplicação `npm start`**: Utilize o terminal de sua preferência para inicializar a aplicação com o comando **npm start**.
-- **Explore a funcionaliade da Quest**: No seguinte trecho do 'src/App.js' :
+- **Explore a funcionaliade da Quest**: <br>
+  **1º** - No seguinte trecho do 'src/App.js' :
 
   ```js
   <ColoringCard text="teste" color="blue" />
   ```
-  Teste alterando o valor de `text`.
+  Teste alterando o valor de `text`. <br>
+
+  **2º** - Teste o botão, ao clicar nele aparecerá a label que ele está recebendo via props.
 
 ## Licença
 
